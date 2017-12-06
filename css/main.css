@@ -1,1 +1,209 @@
 /* Los estilos de tu proyecto */
+.navlab{
+  padding-bottom: 20px;
+}
+
+.logo1{
+  margin-left: 10%;
+  margin-top: 20px;
+}
+
+.options{
+  text-decoration: none;
+  color: grey;
+}
+
+.menu{
+  margin-right: 10%;
+  margin-top: 15px;
+}
+
+.first-section{
+  background-image: url(../assets/images/taxi.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: bottom;
+  margin:0;
+  z-index: -200;
+}
+
+.form{
+  margin-top: 10%;
+}
+
+.all{
+  padding: 3%;
+}
+
+.first-btn{
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.second-btn{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.logo2{
+  margin-left: 10px;
+}
+
+.line{
+  padding-bottom: 20px;
+}
+
+#well{
+  text-align: center;
+  padding-top: 10px;
+}
+
+.color{
+  background-color: #f7b617;
+  color: white;
+}
+
+.second-section{
+  background-color: #f7b617;
+}
+
+.cont{
+  border: 1px solid white;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.phone{
+  padding: 5%;
+  margin-left: 30px;
+}
+
+.description *{
+  color: white;
+  margin-left: 25%;
+  font-size: 20px;
+}
+
+.description h2{
+  margin-top: 20%;
+  margin-bottom: 5%;
+  font-weight: bolder;
+  font-size: 25px;
+}
+
+.description p{
+  margin-bottom: 10%;
+}
+
+.third-section{
+  background-image: url(../assets/images/conduce.jpg);
+  background-position: 75%;
+  background-size: cover;
+  background-position: bottom;
+  margin:0;
+  z-index: -200;
+}
+
+.drive{
+  padding-bottom: 15%;
+  padding-top: 15%;
+  color: white;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.drive *{
+  margin-left: 10px;
+}
+
+.drive h2{
+  font-weight: bolder;
+  margin-bottom: 15px;
+}
+
+.drive p{
+  margin-bottom: 15px;
+}
+
+.third-btn{
+  background-color: #f7b617;
+  color: white;
+  border: none;
+}
+
+.fourth-section{
+  background-color: #f7b617;
+  color: white;
+}
+
+.rate{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding: 5%;
+}
+
+.rate h2,h4{
+  padding-bottom: 10px;
+}
+
+.first-input{
+  padding-top: 10px;
+}
+
+.second-input{
+  margin-left: 15px;
+  padding-top: 10px;
+}
+
+.form-control{
+  background-color: #f7b617;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+
+.fourth-btn{
+  margin-top: 15px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.map{
+  border: 1px solid white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.footer-section{
+  background-color: #2b2b2b;
+}
+
+.footer-section *{
+  color: white;
+}
+
+.footer-section li{
+  list-style: none;
+  padding: 3%;
+}
+
+.footer-row{
+  padding: 5%;
+}
+
+.marks{
+  padding-top: 10%;
+}
+
+.app{
+  padding-bottom: 20px;
+}
+
+.new{
+  color: white;
+  padding-bottom: 3%;
+}
+
+.faster{
+  color: white;
+}
