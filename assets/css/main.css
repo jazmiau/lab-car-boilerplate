@@ -19,7 +19,7 @@
 }
 
 .first-section{
-  background-image: url(../assets/images/taxi.jpg);
+  background-image: url(../img/taxi.jpg);
   height: 100vh;
   background-size: cover;
   background-position: bottom;
@@ -97,7 +97,7 @@
 }
 
 .third-section{
-  background-image: url(../assets/images/conduce.jpg);
+  background-image: url(../img/conduce.jpg);
   background-position: 75%;
   background-size: cover;
   background-position: bottom;
