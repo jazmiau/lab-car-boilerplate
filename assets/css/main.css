@@ -155,6 +155,16 @@
   padding-top: 10px;
 }
 
+#text-placeholder::-webkit-input-placeholder { color:#ffffff ; }
+#text-placeholder:::-moz-placeholder { color:#ffffff ; } /* firefox 19+ */
+#text-placeholder::-ms-input-placeholder { color:#ffffff ; } /* ie */
+input:-moz-placeholder { color:#ffffff ; }
+
+#text-placeholder2::-webkit-input-placeholder { color:#ffffff ; }
+#text-placeholder2:::-moz-placeholder { color:#ffffff ; } /* firefox 19+ */
+#text-placeholder2::-ms-input-placeholder { color:#ffffff ; } /* ie */
+input:-moz-placeholder { color:#ffffff ; }
+
 .form-control{
   background-color: #f7b617;
   border: 1px solid white;
@@ -166,6 +176,7 @@
   padding: 10px;
   padding-left: 20px;
   padding-right: 20px;
+  margin-bottom: 20px;
 }
 
 .map{
@@ -206,4 +217,8 @@
 
 .faster{
   color: white;
+}
+
+.social{
+  padding-top: 25%;
 }
